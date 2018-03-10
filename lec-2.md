@@ -103,7 +103,6 @@ for each operation `isConnected` we can optimise path from elements to their roo
  - Implement Union-find algorithm
  - Implement quickUnion with weighted
 
-### Implement quickUnion with weighted
 
 ### URLS
  - [slides](https://docs.google.com/presentation/d/1jho6Lhz9pWsqed6INyOZ0KtPkQu5Oo_Gh6bwRn7-4R4/edit?usp=sharing)
