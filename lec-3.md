@@ -1,4 +1,4 @@
-# Lec-4 11.03.2018
+# Lec-3 11.03.2018
 
 ## Basic data structure
 
@@ -39,3 +39,5 @@ https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 
 1. Implement linked list
 2. Implement Stack and Queue base on linked list
+3. Implements a solution to check, is brackets in text string valid, an example of input can be any text or js code, even code of your solution itself.
+4. (*) Implements a solution for processing string input in next  format: `(2 + 3) * 4 - ((4 + 6) / 2)` should calculate result.
